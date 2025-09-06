@@ -4,4 +4,4 @@ as professional cyber security this is some of the projects that i will be showi
 
 linux and SQL
 
-ASSETS,THREATS,AND VULNARABILITIES
+ASSETS,THREATS,AND VULNARABILITIES.
